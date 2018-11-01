@@ -1,0 +1,5 @@
+This is a manpower analysis that deals with the projection of future trainees available to commit to taskings. The CSV is sensitive so it was not loaded.
+
+There is also an awards comparable that compares the amount of time for awards to be processed from Battalion and Group. This is to see if there is a requirement for policy change; however, the csv is also sensitive in nature.
+
+The purpose of these two scripts was to create visualizations of data overtime, identify outliers, and eventually anticipate future manpower actions based on time of year.
